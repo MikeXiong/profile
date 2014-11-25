@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="tutorial"/>
 	<classpathentry kind="src" path="resume"/>
 	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="infrastructure"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
