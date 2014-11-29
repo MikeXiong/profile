@@ -1,4 +1,4 @@
-package socket;
+package mx.nio.socket;
 
 import java.io.IOException;
 import java.net.InetAddress;

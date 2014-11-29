@@ -1,4 +1,4 @@
-package socket;
+package mx.nio.socket;
 
 import org.omg.PortableServer._ServantLocatorStub;
 
